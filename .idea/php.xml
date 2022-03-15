@@ -127,6 +127,9 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/deprecations" />
       <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
       <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/chaseconey/nova-external-image" />
+      <path value="$PROJECT_DIR$/vendor/kirschbaum-development/nova-inline-relationship" />
+      <path value="$PROJECT_DIR$/vendor/saumini/count" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.3" />

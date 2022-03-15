@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LaravelIdeaPersonalSettings">
+    <option name="generationStringOptionValues">
+      <map>
+        <entry key="createNovaResource.addSortable" value="" />
+        <entry key="createNovaResource.addValidationRules" value="" />
+        <entry key="createNovaResource.translation" value="based on field name with prefix" />
+      </map>
+    </option>
+  </component>
+</project>
