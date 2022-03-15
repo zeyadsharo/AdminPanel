@@ -17,10 +17,7 @@ class AttributeResource extends Resource
     public static $search = [
         'attributeType'
     ];
-    public static function redirectAfterCreate(NovaRequest $request, $resource)
-    {
-        return '/resources/product-resources'.static::uriKey().'/'.$resource->getKey();
-    }
+
     public function fields(Request $request)
     {
         return [
